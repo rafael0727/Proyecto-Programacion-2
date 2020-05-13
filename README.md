@@ -12,4 +12,14 @@ Cuanto a la grafica que se creara, esta nos mostrara un grafico entre la relacio
 ##### Agregar y listar pokemones
 
 El usuario podra agregar pokemones a como de gusto, para eso tendra que ingresar el nombre del pokemon, el tipo, el numero de pokedex, codigo del pokemon y el entrenador.
-![687474703a2f2f672e7265636f726469742e636f2f346149714c72706a36502e676966](https://user-images.githubusercontent.com/61460280/81873046-8e88d880-9540-11ea-8cb1-b8637717cb90.gif)
+ 
+ *imagen del registro*
+ 
+ ### Graficador del nombre del pokemon y de su numero
+ 
+ A la hora de ingresar un pokemon también se creará una gráfica. Esta grafica nos mostrara dos datos, el nombre del pokemon y su numero. Cada pokemon agregado se colocora en la gráfica una junto a otra para así poder comparar los nombres y los numeros. Por otro lado en la grafica habrá un botón de nombre “etiqueta”, el cual sirve para esconder o visualizar el numero del pokemon.
+ 
+ *imagen de grafico*
+ 
+### Cambiar el idioma del Software 
+
