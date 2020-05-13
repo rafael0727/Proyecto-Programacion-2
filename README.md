@@ -23,7 +23,11 @@ El usuario podra agregar pokemones a como de gusto, para eso tendra que ingresar
  
 #### Cambiar el idioma del Software 
 
-Otra de las funciones que tiene este software, es que puede cambiar de idiomasPara cambiar el idioma tan solo basta con ir a la parte inferior derecha donde dice "Cambiar Idioma", en este se desplegará una lista con unos idiomas ya establecidos en el software y que al momento de elegir uno, todo el programa se cambiará automáticamente a ese idioma.
+Otra de las funciones que tiene este software, es que puede cambiar de idiomas. Para cambiar el idioma tiene que ir a la parte de abajo a la derecha donde dice "Idioma", en este se desplegará una lista con unos idiomas ya establecidos en el software y que al momento de elegir uno, todo el programa se cambiará automáticamente a ese idioma.
+Los idiomas establecidos son:
+* español (principal)
+* ingles
+* frances
 
 
 
