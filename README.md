@@ -1,4 +1,4 @@
-REGISTRO TEMPORAL DE LOS POKEMONES
+#REGISTRO TEMPORAL DE LOS POKEMONES
 
 Este es un trabajo estudiantil, creado en el lenguaje de programacion c# el cual consiste en el registro de Pokemones que se almacena por un tiempo los datos ingresados como son el nombre del pokemon, su tipo, su numero en la pokedex, el codigo y su entrenador. En el instante de registrar los datos estos se creara una tabla y un grafico el cual esta implementado por un Dll graficador.
 
