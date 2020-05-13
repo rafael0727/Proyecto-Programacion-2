@@ -20,7 +20,8 @@ El usuario podra agregar pokemones a como de gusto, para eso tendra que ingresar
  
  A la hora de ingresar un pokemon también se creará una gráfica. Esta grafica nos mostrara dos datos, el nombre del pokemon y su numero. Cada pokemon agregado se colocora en la gráfica una junto a otra para así poder comparar los nombres y los numeros. Por otro lado en la grafica habrá un botón de nombre “etiqueta”, el cual sirve para esconder o visualizar el numero del pokemon.
  
- *imagen de grafico*
+![Grafica](https://user-images.githubusercontent.com/61460280/81875970-30abbf00-9547-11ea-85eb-656967d65995.gif)
+
  
 #### Cambiar el idioma del Software 
 
@@ -30,11 +31,17 @@ Los idiomas establecidos son:
 * ingles
 * frances
 
+![cambio-idioma](https://user-images.githubusercontent.com/61460280/81876189-ae6fca80-9547-11ea-812d-031a4ec0418c.gif)
+
+
+![cambio-idioma2](https://user-images.githubusercontent.com/61460280/81876234-c9423f00-9547-11ea-8d85-e3663f37d89b.gif)
+
+
 #### Cambiar el color al fondo de la grafica
 
 Así mismo otra funcionalidad del software, es el poder configurarlo al gusto del usuario el color de la grafica, es decir, cambiara el color de todo el fondo de la grafica dependiendo del escogido por el usuario. Próximamente se implementarán más opciones de configuración.
 
-*imagen del cambio de color*
+![cambio-color](https://user-images.githubusercontent.com/61460280/81876396-2a6a1280-9548-11ea-9ae6-6d2c489c7100.gif)
 
 ### Sobre los DLL
 
