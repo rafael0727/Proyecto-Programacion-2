@@ -15,11 +15,15 @@ El usuario podra agregar pokemones a como de gusto, para eso tendra que ingresar
  
  *imagen del registro*
  
- ### Graficador del nombre del pokemon y de su numero
+ #### Graficador del nombre del pokemon y de su numero
  
  A la hora de ingresar un pokemon también se creará una gráfica. Esta grafica nos mostrara dos datos, el nombre del pokemon y su numero. Cada pokemon agregado se colocora en la gráfica una junto a otra para así poder comparar los nombres y los numeros. Por otro lado en la grafica habrá un botón de nombre “etiqueta”, el cual sirve para esconder o visualizar el numero del pokemon.
  
  *imagen de grafico*
  
-### Cambiar el idioma del Software 
+#### Cambiar el idioma del Software 
+
+Otra de las funciones que tiene este software, es que puede cambiar de idiomasPara cambiar el idioma tan solo basta con ir a la parte inferior derecha donde dice "Cambiar Idioma", en este se desplegará una lista con unos idiomas ya establecidos en el software y que al momento de elegir uno, todo el programa se cambiará automáticamente a ese idioma.
+
+
 
