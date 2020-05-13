@@ -13,7 +13,7 @@ Cuanto a la grafica que se creara, esta nos mostrara un grafico entre la relacio
 
 El usuario podra agregar pokemones a como de gusto, para eso tendra que ingresar el nombre del pokemon, el tipo, el numero de pokedex, codigo del pokemon y el entrenador.
  
-![Ingreso datos](https://user-images.githubusercontent.com/61460280/81875384-c34b5e80-9545-11ea-9973-ca1c4906e759.gif)
+![Ingreso-datos (1)](https://user-images.githubusercontent.com/61460280/81875779-ae22ff80-9546-11ea-8ecd-3956fa7523ab.gif)
 
  
  #### Graficador del nombre del pokemon y de su numero
