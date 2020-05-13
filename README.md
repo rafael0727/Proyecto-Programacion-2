@@ -48,6 +48,11 @@ Así mismo otra funcionalidad del software, es el poder configurarlo al gusto de
 
 El siguiente DLL que esta implementado es un graficador, el cual posee un montón de funcionalidades en cuanto a realizar graficas. En nuestro software, este es el encargado de crearnos gráficamente las barras correspondientes al nombre de los pokemones con su numero de registro, y compararlas con las demás que hayan sido ingresados. En cuanto a la lógica que utiliza, es que, al momento de ingresar una nueva película, el Dll se encargara de tomar los datos del nombre de esta y su duración, los ubicara en posiciones "X" y "Y", donde el Eje X hace referencia al nombre del pokemon y el Y a el numero de registro. Realizara este proceso con todas las listas que tengamos actualmente en nuestro programa.
 
+![Grafica2](https://user-images.githubusercontent.com/61460280/81877089-d6f8c400-9549-11ea-8507-7426458a2774.gif)
 
+
+## Autores
+##### Rafael Ballesteros Acero
+##### Nicolas Barba Villamizar
 
 
