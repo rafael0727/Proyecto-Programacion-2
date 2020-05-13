@@ -29,5 +29,13 @@ Los idiomas establecidos son:
 * ingles
 * frances
 
+#### Cambiar el color al fondo de la grafica
+
+Así mismo otra funcionalidad del software, es el poder configurarlo al gusto del usuario el color de la grafica, es decir, cambiara el color de todo el fondo de la grafica dependiendo del escogido por el usuario. Próximamente se implementarán más opciones de configuración.
+
+*imagen del cambio de color*
+
+### Sobre los DLL
+
 
 
