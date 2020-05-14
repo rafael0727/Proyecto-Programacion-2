@@ -1,0 +1,15 @@
+C:\Users\57301\Desktop\software corte 2\graficadorchart\bin\Debug\graficadorchart.dll
+C:\Users\57301\Desktop\software corte 2\graficadorchart\bin\Debug\graficadorchart.pdb
+C:\Users\57301\Desktop\software corte 2\graficadorchart\bin\Debug\fr-FR\graficadorchart.resources.dll
+C:\Users\57301\Desktop\software corte 2\graficadorchart\bin\Debug\en-US\graficadorchart.resources.dll
+C:\Users\57301\Desktop\software corte 2\graficadorchart\obj\Debug\Grafico.csprojAssemblyReference.cache
+C:\Users\57301\Desktop\software corte 2\graficadorchart\obj\Debug\graficadorchart.Res.resources
+C:\Users\57301\Desktop\software corte 2\graficadorchart\obj\Debug\graficadorchart.Graficador.resources
+C:\Users\57301\Desktop\software corte 2\graficadorchart\obj\Debug\graficadorchart.Res.fr-FR.resources
+C:\Users\57301\Desktop\software corte 2\graficadorchart\obj\Debug\graficadorchart.Res.en-US.resources
+C:\Users\57301\Desktop\software corte 2\graficadorchart\obj\Debug\Grafico.csproj.GenerateResource.cache
+C:\Users\57301\Desktop\software corte 2\graficadorchart\obj\Debug\Grafico.csproj.CoreCompileInputs.cache
+C:\Users\57301\Desktop\software corte 2\graficadorchart\obj\Debug\fr-FR\graficadorchart.resources.dll
+C:\Users\57301\Desktop\software corte 2\graficadorchart\obj\Debug\en-US\graficadorchart.resources.dll
+C:\Users\57301\Desktop\software corte 2\graficadorchart\obj\Debug\graficadorchart.dll
+C:\Users\57301\Desktop\software corte 2\graficadorchart\obj\Debug\graficadorchart.pdb

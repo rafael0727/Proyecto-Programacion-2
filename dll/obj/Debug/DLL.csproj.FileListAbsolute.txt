@@ -1,0 +1,5 @@
+C:\Users\57301\Desktop\software corte 2\multiplicacion\bin\Debug\multiplicacion.dll
+C:\Users\57301\Desktop\software corte 2\multiplicacion\bin\Debug\multiplicacion.pdb
+C:\Users\57301\Desktop\software corte 2\multiplicacion\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+C:\Users\57301\Desktop\software corte 2\multiplicacion\obj\Debug\multiplicacion.dll
+C:\Users\57301\Desktop\software corte 2\multiplicacion\obj\Debug\multiplicacion.pdb

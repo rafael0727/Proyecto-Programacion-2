@@ -1,0 +1,5 @@
+C:\Users\Leider\Desktop\WindowsFormsApp1\multiplicacion\bin\Debug\multiplicacion.dll
+C:\Users\Leider\Desktop\WindowsFormsApp1\multiplicacion\bin\Debug\multiplicacion.pdb
+C:\Users\Leider\Desktop\WindowsFormsApp1\multiplicacion\obj\Debug\multiplicacion.csprojAssemblyReference.cache
+C:\Users\Leider\Desktop\WindowsFormsApp1\multiplicacion\obj\Debug\multiplicacion.dll
+C:\Users\Leider\Desktop\WindowsFormsApp1\multiplicacion\obj\Debug\multiplicacion.pdb

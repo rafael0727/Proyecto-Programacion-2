@@ -1,0 +1,43 @@
+C:\Users\Leider\Desktop\WindowsFormsApp1\graficadorchart\bin\Debug\graficadorchart.dll
+C:\Users\Leider\Desktop\WindowsFormsApp1\graficadorchart\bin\Debug\graficadorchart.pdb
+C:\Users\Leider\Desktop\WindowsFormsApp1\graficadorchart\obj\Debug\graficadorchart.csprojAssemblyReference.cache
+C:\Users\Leider\Desktop\WindowsFormsApp1\graficadorchart\obj\Debug\graficadorchart.UCgraficador.resources
+C:\Users\Leider\Desktop\WindowsFormsApp1\graficadorchart\obj\Debug\graficadorchart.csproj.GenerateResource.cache
+C:\Users\Leider\Desktop\WindowsFormsApp1\graficadorchart\obj\Debug\graficadorchart.dll
+C:\Users\Leider\Desktop\WindowsFormsApp1\graficadorchart\obj\Debug\graficadorchart.pdb
+C:\Users\Leider\Desktop\WindowsFormsApp1\graficadorchart\bin\Debug\en-US\graficadorchart.resources.dll
+C:\Users\Leider\Desktop\WindowsFormsApp1\graficadorchart\obj\Debug\graficadorchart.Res.resources
+C:\Users\Leider\Desktop\WindowsFormsApp1\graficadorchart\obj\Debug\graficadorchart.Res.en-US.resources
+C:\Users\Leider\Desktop\WindowsFormsApp1\graficadorchart\obj\Debug\en-US\graficadorchart.resources.dll
+C:\Users\Leider\Desktop\WindowsFormsApp1\graficadorchart\bin\Debug\fr-FR\graficadorchart.resources.dll
+C:\Users\Leider\Desktop\WindowsFormsApp1\graficadorchart\obj\Debug\graficadorchart.Res.fr-FR.resources
+C:\Users\Leider\Desktop\WindowsFormsApp1\graficadorchart\obj\Debug\fr-FR\graficadorchart.resources.dll
+C:\Users\Leider\Desktop\software corte 2\graficadorchart\bin\Debug\graficadorchart.dll
+C:\Users\Leider\Desktop\software corte 2\graficadorchart\bin\Debug\graficadorchart.pdb
+C:\Users\Leider\Desktop\software corte 2\graficadorchart\bin\Debug\fr-FR\graficadorchart.resources.dll
+C:\Users\Leider\Desktop\software corte 2\graficadorchart\bin\Debug\en-US\graficadorchart.resources.dll
+C:\Users\Leider\Desktop\software corte 2\graficadorchart\obj\Debug\graficadorchart.csprojAssemblyReference.cache
+C:\Users\Leider\Desktop\software corte 2\graficadorchart\obj\Debug\graficadorchart.Res.resources
+C:\Users\Leider\Desktop\software corte 2\graficadorchart\obj\Debug\graficadorchart.UCgraficador.resources
+C:\Users\Leider\Desktop\software corte 2\graficadorchart\obj\Debug\graficadorchart.Res.fr-FR.resources
+C:\Users\Leider\Desktop\software corte 2\graficadorchart\obj\Debug\graficadorchart.Res.en-US.resources
+C:\Users\Leider\Desktop\software corte 2\graficadorchart\obj\Debug\graficadorchart.csproj.GenerateResource.cache
+C:\Users\Leider\Desktop\software corte 2\graficadorchart\obj\Debug\fr-FR\graficadorchart.resources.dll
+C:\Users\Leider\Desktop\software corte 2\graficadorchart\obj\Debug\en-US\graficadorchart.resources.dll
+C:\Users\Leider\Desktop\software corte 2\graficadorchart\obj\Debug\graficadorchart.dll
+C:\Users\Leider\Desktop\software corte 2\graficadorchart\obj\Debug\graficadorchart.pdb
+C:\Users\57301\Desktop\software corte 2\graficadorchart\bin\Debug\graficadorchart.dll
+C:\Users\57301\Desktop\software corte 2\graficadorchart\bin\Debug\graficadorchart.pdb
+C:\Users\57301\Desktop\software corte 2\graficadorchart\bin\Debug\fr-FR\graficadorchart.resources.dll
+C:\Users\57301\Desktop\software corte 2\graficadorchart\bin\Debug\en-US\graficadorchart.resources.dll
+C:\Users\57301\Desktop\software corte 2\graficadorchart\obj\Debug\graficadorchart.csprojAssemblyReference.cache
+C:\Users\57301\Desktop\software corte 2\graficadorchart\obj\Debug\graficadorchart.Res.resources
+C:\Users\57301\Desktop\software corte 2\graficadorchart\obj\Debug\graficadorchart.UCgraficador.resources
+C:\Users\57301\Desktop\software corte 2\graficadorchart\obj\Debug\graficadorchart.Res.fr-FR.resources
+C:\Users\57301\Desktop\software corte 2\graficadorchart\obj\Debug\graficadorchart.Res.en-US.resources
+C:\Users\57301\Desktop\software corte 2\graficadorchart\obj\Debug\graficadorchart.csproj.GenerateResource.cache
+C:\Users\57301\Desktop\software corte 2\graficadorchart\obj\Debug\graficadorchart.csproj.CoreCompileInputs.cache
+C:\Users\57301\Desktop\software corte 2\graficadorchart\obj\Debug\fr-FR\graficadorchart.resources.dll
+C:\Users\57301\Desktop\software corte 2\graficadorchart\obj\Debug\en-US\graficadorchart.resources.dll
+C:\Users\57301\Desktop\software corte 2\graficadorchart\obj\Debug\graficadorchart.dll
+C:\Users\57301\Desktop\software corte 2\graficadorchart\obj\Debug\graficadorchart.pdb

@@ -1,0 +1,63 @@
+C:\Users\Leider\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Leider\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Leider\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Leider\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Leider\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Leider\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Leider\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl1.resources
+C:\Users\Leider\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Leider\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Leider\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Leider\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Leider\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Leider\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Leider\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Leider\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Leider\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Leider\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Leider\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Leider\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl1.resources
+C:\Users\Leider\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Leider\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Leider\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Leider\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\multiplicacion.dll
+C:\Users\Leider\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\multiplicacion.pdb
+C:\Users\Leider\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Leider\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\en-US\WindowsFormsApp1.resources.dll
+C:\Users\Leider\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Res.en-US.resources
+C:\Users\Leider\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\en-US\WindowsFormsApp1.resources.dll
+C:\Users\Leider\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Res.resources
+C:\Users\Leider\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\graficadorchart.dll
+C:\Users\Leider\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\graficadorchart.pdb
+C:\Users\Leider\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr-FR\WindowsFormsApp1.resources.dll
+C:\Users\Leider\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Res.fr-FR.resources
+C:\Users\Leider\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\fr-FR\WindowsFormsApp1.resources.dll
+C:\Users\Leider\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Libreria_Graficadora.dll
+C:\Users\Leider\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\en-US\graficadorchart.resources.dll
+C:\Users\Leider\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr-FR\graficadorchart.resources.dll
+C:\Users\Leider\Desktop\software corte 2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Leider\Desktop\software corte 2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Leider\Desktop\software corte 2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Leider\Desktop\software corte 2\WindowsFormsApp1\bin\Debug\fr-FR\WindowsFormsApp1.resources.dll
+C:\Users\Leider\Desktop\software corte 2\WindowsFormsApp1\bin\Debug\en-US\WindowsFormsApp1.resources.dll
+C:\Users\Leider\Desktop\software corte 2\WindowsFormsApp1\bin\Debug\graficadorchart.dll
+C:\Users\Leider\Desktop\software corte 2\WindowsFormsApp1\bin\Debug\Libreria_Graficadora.dll
+C:\Users\Leider\Desktop\software corte 2\WindowsFormsApp1\bin\Debug\multiplicacion.dll
+C:\Users\Leider\Desktop\software corte 2\WindowsFormsApp1\bin\Debug\graficadorchart.pdb
+C:\Users\Leider\Desktop\software corte 2\WindowsFormsApp1\bin\Debug\multiplicacion.pdb
+C:\Users\Leider\Desktop\software corte 2\WindowsFormsApp1\bin\Debug\en-US\graficadorchart.resources.dll
+C:\Users\Leider\Desktop\software corte 2\WindowsFormsApp1\bin\Debug\fr-FR\graficadorchart.resources.dll
+C:\Users\Leider\Desktop\software corte 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Leider\Desktop\software corte 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Leider\Desktop\software corte 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Leider\Desktop\software corte 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Leider\Desktop\software corte 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Res.resources
+C:\Users\Leider\Desktop\software corte 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl1.resources
+C:\Users\Leider\Desktop\software corte 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Res.fr-FR.resources
+C:\Users\Leider\Desktop\software corte 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Res.en-US.resources
+C:\Users\Leider\Desktop\software corte 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Leider\Desktop\software corte 2\WindowsFormsApp1\obj\Debug\fr-FR\WindowsFormsApp1.resources.dll
+C:\Users\Leider\Desktop\software corte 2\WindowsFormsApp1\obj\Debug\en-US\WindowsFormsApp1.resources.dll
+C:\Users\Leider\Desktop\software corte 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Leider\Desktop\software corte 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Leider\Desktop\software corte 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

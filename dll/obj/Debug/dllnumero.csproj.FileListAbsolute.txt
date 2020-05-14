@@ -1,0 +1,16 @@
+C:\Users\Leider\Desktop\WindowsFormsApp1\multiplicacion\bin\Debug\multiplicacion.dll
+C:\Users\Leider\Desktop\WindowsFormsApp1\multiplicacion\bin\Debug\multiplicacion.pdb
+C:\Users\Leider\Desktop\WindowsFormsApp1\multiplicacion\obj\Debug\dllnumero.csprojAssemblyReference.cache
+C:\Users\Leider\Desktop\WindowsFormsApp1\multiplicacion\obj\Debug\multiplicacion.dll
+C:\Users\Leider\Desktop\WindowsFormsApp1\multiplicacion\obj\Debug\multiplicacion.pdb
+C:\Users\Leider\Desktop\software corte 2\multiplicacion\bin\Debug\multiplicacion.dll
+C:\Users\Leider\Desktop\software corte 2\multiplicacion\bin\Debug\multiplicacion.pdb
+C:\Users\Leider\Desktop\software corte 2\multiplicacion\obj\Debug\dllnumero.csprojAssemblyReference.cache
+C:\Users\Leider\Desktop\software corte 2\multiplicacion\obj\Debug\multiplicacion.dll
+C:\Users\Leider\Desktop\software corte 2\multiplicacion\obj\Debug\multiplicacion.pdb
+C:\Users\57301\Desktop\software corte 2\multiplicacion\bin\Debug\multiplicacion.dll
+C:\Users\57301\Desktop\software corte 2\multiplicacion\bin\Debug\multiplicacion.pdb
+C:\Users\57301\Desktop\software corte 2\multiplicacion\obj\Debug\dllnumero.csprojAssemblyReference.cache
+C:\Users\57301\Desktop\software corte 2\multiplicacion\obj\Debug\dllnumero.csproj.CoreCompileInputs.cache
+C:\Users\57301\Desktop\software corte 2\multiplicacion\obj\Debug\multiplicacion.dll
+C:\Users\57301\Desktop\software corte 2\multiplicacion\obj\Debug\multiplicacion.pdb

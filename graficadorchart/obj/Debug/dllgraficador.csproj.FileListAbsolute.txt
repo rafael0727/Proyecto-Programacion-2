@@ -1,0 +1,7 @@
+C:\Users\Leider\Desktop\WindowsFormsApp1\graficadorchart\bin\Debug\graficadorchart.dll
+C:\Users\Leider\Desktop\WindowsFormsApp1\graficadorchart\bin\Debug\graficadorchart.pdb
+C:\Users\Leider\Desktop\WindowsFormsApp1\graficadorchart\obj\Debug\dllgraficador.csprojAssemblyReference.cache
+C:\Users\Leider\Desktop\WindowsFormsApp1\graficadorchart\obj\Debug\graficadorchart.UCgraficador.resources
+C:\Users\Leider\Desktop\WindowsFormsApp1\graficadorchart\obj\Debug\dllgraficador.csproj.GenerateResource.cache
+C:\Users\Leider\Desktop\WindowsFormsApp1\graficadorchart\obj\Debug\graficadorchart.dll
+C:\Users\Leider\Desktop\WindowsFormsApp1\graficadorchart\obj\Debug\graficadorchart.pdb
