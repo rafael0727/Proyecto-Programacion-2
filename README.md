@@ -6,9 +6,17 @@ La tabla guardara cada uno de los nombres de los diferentes pokemones diligencia
 
 Cuanto a la grafica que se creara, esta nos mostrara un grafico entre la relacion de los diferentes nombre de los pokemones y su codigo pokemon. En caso de que se cambie el nombre tambien lo hara la grafica, ya que todo esta realizado con el mismo graficador.
 
-### Como instalar el proyecto
+### Instalacion del proyecto
 
-con visual jeje
+* Para instalar el proyecto debemos ir a la parte superior derecha y descargar el archivo .zip, tal y como lo muestra en la imagen.
+
+*imagen del visual*
+
+* Luego descomprimimos el archivo y saldra el proyecto, tal y como lo muestra la imagen.
+
+*imanegen descomprimiendo*
+
+* Por ultimo para ejecutar tenemos que abrir el archivo llamado " WindowsFormsApp1 ", tal y como lo muestra la imagen
 
 ### Funcionamiento del programa
 ##### Agregar y listar pokemones
