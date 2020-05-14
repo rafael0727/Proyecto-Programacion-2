@@ -10,13 +10,21 @@ Cuanto a la grafica que se creara, esta nos mostrara un grafico entre la relacio
 
 * Para instalar el proyecto debemos ir a la parte superior derecha y descargar el archivo .zip, tal y como lo muestra en la imagen.
 
-![descarga](https://user-images.githubusercontent.com/61460280/81895346-a039a280-9577-11ea-8811-6a74edd5c8d2.PNG)
+![descargaa](https://user-images.githubusercontent.com/61460280/81896202-b21c4500-9579-11ea-8594-0e0668930f37.PNG)
+
+* Luego oprimimos la palabra "Develop", que se muestra en la imagen, y nos abrira unas carpetas.
+
+![BRACHET](https://user-images.githubusercontent.com/62104625/81896318-ff001b80-9579-11ea-8eff-f8e7ff89444e.PNG)
+
+![image](https://user-images.githubusercontent.com/62104625/81896447-3bcc1280-957a-11ea-86b4-bc7553f5fab5.png)
 
 * Luego descomprimimos el archivo y saldra el proyecto, tal y como lo muestra la imagen.
 
-*imanegen descomprimiendo*
+![image](https://user-images.githubusercontent.com/62104625/81896536-6ae28400-957a-11ea-8a98-7af6d8988746.png)
 
-* Por ultimo para ejecutar tenemos que abrir el archivo llamado " WindowsFormsApp1 ", tal y como lo muestra la imagen
+* Por ultimo para ejecutar tenemos que abrir el archivo llamado " WindowsFormsApp1 " y nuestro programa sera abierto.
+
+
 
 ### Funcionamiento del programa
 ##### Agregar y listar pokemones
