@@ -6,7 +6,9 @@ La tabla guardara cada uno de los nombres de los diferentes pokemones diligencia
 
 Cuanto a la grafica que se creara, esta nos mostrara un grafico entre la relacion de los diferentes nombre de los pokemones y su codigo pokemon. En caso de que se cambie el nombre tambien lo hara la grafica, ya que todo esta realizado con el mismo graficador.
 
+### Como instalar el proyecto
 
+con visual jeje
 
 ### Funcionamiento del programa
 ##### Agregar y listar pokemones
